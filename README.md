@@ -39,6 +39,6 @@ Contributions to this project are welcome. If you find any issues or have sugges
 Your Name - Arpit Jain
 
 
-## Project Deploy Link - https://ajr4454.github.io/mctproject-natours/
+### Project Deploy Link - https://ajr4454.github.io/mctproject-natours/
 
 #### For any questions or inquiries, please contact arpitpjain4454@gmail.com
