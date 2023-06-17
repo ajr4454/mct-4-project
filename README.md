@@ -15,7 +15,6 @@ Web browser (Chrome, Firefox, Safari, etc.)
 ## Built With
 - HTML5 - The markup language used for structuring the web pages.
 - CSS3 - The style sheet language used for designing the web pages.
-- JavaScript - The programming language used for interactivity and DOM manipulation.
 
 ## Project Structure
 - `index.html` - The main HTML file for the website.
