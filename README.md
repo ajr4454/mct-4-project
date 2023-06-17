@@ -1,4 +1,9 @@
+
+### Project Deploy Link - https://ajr4454.github.io/mctproject-natours/
+
+
 # Project Name: Natours
+
 
 #### This project is a website for Natours, a company that offers exciting tours for adventurous people. The website provides information about the company, popular tours, customer stories, and a booking form.
 
@@ -37,8 +42,5 @@ Contributions to this project are welcome. If you find any issues or have sugges
 
 ## Authors
 Your Name - Arpit Jain
-
-
-### Project Deploy Link - https://ajr4454.github.io/mctproject-natours/
 
 #### For any questions or inquiries, please contact arpitpjain4454@gmail.com
