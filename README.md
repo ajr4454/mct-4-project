@@ -5,9 +5,8 @@
 ## Getting Started
 To get started with this project, follow the steps below:
 
-1.Clone the repository: `git clone https://github.com/your-username/natours.git`
-2.Navigate to the project directory: `cd natours`
-3.Open the index.html file in your web browser.
+1.Clone the repository: `git clone https://github.com/ajr4454/mct-4-project.git`
+2.Open the index.html file in your web browser.
 
 ## Prerequisites
 Web browser (Chrome, Firefox, Safari, etc.)
