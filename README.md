@@ -6,6 +6,7 @@
 To get started with this project, follow the steps below:
 
 1.Clone the repository: `git clone https://github.com/ajr4454/mct-4-project.git`.
+
 2.Open the index.html file in your web browser.
 
 ## Prerequisites
