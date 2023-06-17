@@ -2,9 +2,6 @@
 
 #### This project is a website for Natours, a company that offers exciting tours for adventurous people. The website provides information about the company, popular tours, customer stories, and a booking form.
 
-
-## Project Deploy Link - 
-
 ## Getting Started
 To get started with this project, follow the steps below:
 
@@ -40,5 +37,9 @@ Contributions to this project are welcome. If you find any issues or have sugges
 
 ## Authors
 Your Name - Arpit Jain
+
+
+## Project Deploy Link - 
+
 
 #### For any questions or inquiries, please contact arpitpjain4454@gmail.com
